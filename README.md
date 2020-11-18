@@ -1,4 +1,6 @@
 # AirProperties
+[![View Calculation of air properties on File Exchange](https://www.mathworks.com/matlabcentral/images/matlab-file-exchange.svg)](https://au.mathworks.com/matlabcentral/fileexchange/64527-calculation-of-air-properties)
+
  Calculates a variety of air thermodynamic properties from the measured temperature, pressure, and humidity.
 
 Variables able to calculated:
