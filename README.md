@@ -21,9 +21,9 @@ Variables able to calculated:
 Calculations are based around atmospheric temperatures and pressures, i.e. not for the use of high temperature combustion. See references for details and limitations.
 
 Shown here is the air density across a range of temperatures and humidities at standard atmospheric pressure. 
-![Air density](https://github.com/sjfitz/AirProperties/blob/main/AirDensityExample.png)
+![Air density](AirDensityExample.png)
 
-##### References:
+#### References:
 
 Picard, A, Davis, RS, Glaser, M, Fujii, K, 2008, 'Revised formula for the density of moist air (CIPM-2007)', Metrologia, vol. 45, no. 2, pp. 149-155. DOI: http://dx.doi.org/10.1088/0026-1394/45/2/004
 
