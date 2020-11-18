@@ -1,5 +1,5 @@
 # AirProperties
- Calculates a variety of air thermodynamic properties from the measured temperature, pressure and humidity.
+ Calculates a variety of air thermodynamic properties from the measured temperature, pressure, and humidity.
 
 Variables able to calculated:
  |Name|Symbol|Unit|Description|
