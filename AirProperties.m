@@ -154,7 +154,7 @@ while ii < nargin-3
     if ischar(varargin{ii}) && ~isempty(varargin{ii})
         switch varargin{ii}
             case {'dew point', 'dewpoint', 'dew',...
-                    'Dew point', 'Dewpoint', 'Dew', 't_dp'}
+                    'Dew point', 'Dewpoint', 'DewPoint', 'Dew', 't_dp'}
                 DewPoint = true;
             case AllOutputs
                 cc = cc + 1;
